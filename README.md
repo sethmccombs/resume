@@ -16,14 +16,15 @@ Junior  Operations  Engineer  looking  to  expand  my  knowledge  and  continue 
 * Cisco ASA
 
 
-Certifications
-AWS  Solutions  Architect(Associate  Level)  May  2018  (Expected)
-AWS  SysOps  Administrator  (Associate  Level)July  2018  (Expected)
-LPI  Linux  EssentialsMay  2017G-Suite  Administrator  Fundamentals Dec  2017
+## Certifications
+* AWS  Solutions  Architect(Associate  Level)  May  2018  (Expected)
+* AWS  SysOps  Administrator  (Associate  Level)July  2018  (Expected)
+* LPI  Linux  EssentialsMay  2017
+* G-Suite  Administrator  Fundamentals Dec  2017
 
 
-Education
-Associates  in  Applied  Science,  Entrepreneurial  Business  Monroe  Community  College  Rochester,  NY  -  2011
+## Education
+* Associates  in  Applied  Science,  Entrepreneurial  Business  Monroe  Community  College  Rochester,  NY  -  2011
 
 
 Experience
