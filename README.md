@@ -6,7 +6,7 @@ linkedin.com/in/sethmccombs
 
 Junior  Operations  Engineer  looking  to  expand  my  knowledge  and  continue  on  my  path  from  IT  support  to  Site  Reliability  and  Cloud  technology. 
 
-##Skills
+## Skills
 * Amazon Web Services
 * Docker
 * Kubernetes
