@@ -1,12 +1,19 @@
-Seth  McCombs
-sethpmccombs@gmail.com
-(510)514-5855
+## Seth  McCombs
+sethpmccombs@gmail.com  
+(510)514-5855  
 linkedin.com/in/sethmccombs
 
+
 Junior  Operations  Engineer  looking  to  expand  my  knowledge  and  continue  on  my  path  from  IT  support  to  Site  Reliability  and  Cloud  technology. 
-Skills
-Amazon  Web  Services
-Docker  Kubernetes  Python  MacOS  Linux  Cisco  ASA
+
+##Skills
+* Amazon Web Services
+* Docker
+* Kubernetes
+* Python
+* MacOS
+* Linux
+* Cisco ASA
 
 
 Certifications
