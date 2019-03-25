@@ -26,10 +26,20 @@ Junior  Operations  Engineer  looking  to  expand  my  knowledge  and  continue 
 * Associates  in  Applied  Science, Entrepreneurial  Business
   * Monroe  Community  College  Rochester,  NY  -  2011
 
+**Site Reliability Engineer**
+Triller - March 2019 – Current
+San Francisco, CA
+
+* SRE tasked with oversight of all cloud infrastructure
+* Converted existing hand provisioned AWS infra to Infrastructure as Code
+* Oversaw transition to full containers and Kubernetes environment from standard VMs
+* Brought systems with little or no monitoring to higher levels of visibility with Cloud Provider metrics and OSS tooling
+* Scripted common tasks (python) with the goal of increasing availability and decreasing recovery time 
+* Standardized tooling and infra around accepted open source solutions
 
 
 **DevOps Engineer**  
-CA Veracode - May 2018 – Current  
+Veracode - May 2018 – February 2019  
 San Francisco, CA
 
 * Transitioned to full time DevOps role split between VeraCode and SourceClear. 
@@ -60,14 +70,3 @@ San Francisco, CA
 * Architected solutions for research sessions on site and remote
 * Covered all technology procurement and administered on site IT asset management. 
 * Traveled internationally to support meetings including those including the highest-level executives within the organization (continuing responsibility from previous role)
-
-**Apple SME/IT Specialist**  
-Sutherland Global Services - April 2015-April 2016  
-Rochester, NY
-
-* SME in all Apple Devices
-* Tested all new devices updates to ensure integration to existing environment. 
-* Responsible for maintaining, and repairing laptops and peripherals - Windows, Android and OS X/iOS. 
-* Lead executive support function for all VP and above employees.
-* Direct support technology belonging to executives,
-* Monitoring and support of all senior leadership meetings, conference calls, and visits.
