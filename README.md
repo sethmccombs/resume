@@ -4,7 +4,7 @@ sethpmccombs@gmail.com
 linkedin.com/in/sethmccombs
 
 
-Junior  Operations  Engineer  looking  to  expand  my  knowledge  and  continue  on  my  path  from  IT  support  to  Site  Reliability  and  Cloud  technology. 
+DevOps/SRE looking to expand my knowledge and continue on my path of growth in the Cloud Infrastructure field
 
 ## Skills
 * Amazon Web Services
