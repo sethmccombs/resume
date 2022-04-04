@@ -1,10 +1,8 @@
 ## Seth  McCombs
-sethpmccombs@gmail.com  
-(510)514-5855  
+seth@seth-mccombs.com
 linkedin.com/in/sethmccombs
 
-
-DevOps/SRE looking to expand my knowledge and continue on my path of growth in the Cloud Infrastructure field
+Dev Ops, Kubernetes, SRE, all sorts of cloud infra and container stuff
 
 ## Skills
 * Amazon Web Services
@@ -26,8 +24,26 @@ DevOps/SRE looking to expand my knowledge and continue on my path of growth in t
 * Associates  in  Applied  Science, Entrepreneurial  Business
   * Monroe  Community  College  Rochester,  NY  -  2011
 
-**Site Reliability Engineer**
-Triller - March 2019 – Current
+**Software Development Engineer III**
+Workday - Nov 2020 – Current
+Pleasanton, CA
+
+* Working alongside the Public Cloud Team supporting the Kubernetes based platform
+* Managing overall system health, working with application engineering teams to meet agreed on platform SLO
+* Support build-out of new environments and regions, automating solutions across teams
+
+**Infrastructure Engineer**
+Sysdig - Dec 2019 – Nov 2020
+San Francisco, CA
+
+* Member of Cloud Infra team tasked with maintenance and oversight of all Cloud environments in AWS and IBM Cloud
+* Responsible for automation around Kubernetes clusters and underlying VMs, storage, databases, etc
+* Lead engineer supporting the company's build and deploy environment engineered around Jenkins
+* Assisted all dev teams in company with migrations off freestyle builds to groovy pipeline scripts
+* Managed VM and docker based build agents for running Jenkins jobs.
+
+**(Senior) Site Reliability Engineer**
+Triller - Feb 2019 – Nov 2019
 San Francisco, CA
 
 * SRE tasked with oversight of all cloud infrastructure
