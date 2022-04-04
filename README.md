@@ -1,6 +1,6 @@
 ## Seth McCombs Resume  
 seth@seth-mccombs.com  
-linkedin.com/in/sethmccombs  
+[linkedin.com/in/sethmccombs](linkedin.com/in/sethmccombs)  
 
 Dev Ops, Kubernetes, SRE, all sorts of cloud infra and container stuff
 
