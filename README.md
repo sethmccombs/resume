@@ -1,17 +1,24 @@
-## Seth McCombs Resume  
-seth@seth-mccombs.com  
+# Seth McCombs Resume
+
+email: seth@seth-mccombs.com  
 [linkedin.com/in/sethmccombs](linkedin.com/in/sethmccombs)  
 
-Dev Ops, Kubernetes, SRE, all sorts of cloud infra and container stuff
+DevOps, Kubernetes and containers, SRE, build automating, all sorts of cloud infra and container stuff
 
 ## Skills
-* Amazon Web Services
-* Docker
+
+### Clouds
+
+* GCP
+* AWS
+
+* Docker & `containerd`
 * Kubernetes
+
+### Programming Languages
+
 * Python
 * GoLang
-* MacOS
-* Linux
 
 ## Education
 
@@ -20,10 +27,21 @@ Dev Ops, Kubernetes, SRE, all sorts of cloud infra and container stuff
 
 ---
 
+### AcuityMD
+
+**Senior Engineer -  Core Infrastructure**  
+November 2022 - Current
+
+* Managed GCP based Cloud Infrastructure
+* Migrated manually provisioned resources to automated Terraform using [Atlantis](runatlantis.io)
+* Transition from GCP CloudBuild to GitHub Actions
+* Oversaw build-out of GKE based Kubernetes clusters for production workloads
+* Deployed [ArgoCD](https://argoproj.github.io/cd/) for deployment of all Kubernetes based components
+
 ### Crunchyroll
 
-**Tech Lead - Kubernetes and Containers**
-Sep 2022 - Current
+**Tech Lead - Kubernetes and Containers**  
+Sep 2022 - November 2022
 San Francisco, CA
 
 * 1 of 3 Tech Leads on the DevOps team:
@@ -32,7 +50,6 @@ San Francisco, CA
   * SME on Kubernetes and Container based platforms
 
 (continued prior responsibilities as Senior Engineer on DevOps team)
-
 
 **Senior DevOps Engineer**  
 Apr 2022 - Sep 2022  
@@ -58,7 +75,7 @@ Pleasanton, CA
 * Coordinating, automating and owning upgrades/patching of both Workday stack and underlying OSS platform (Kubernetes, Istio, Calico)
 * Assist with onboarding services to the platform, coordinating with application teams, architects and product managers.
 
-**Software Development Engineer III - DevOps and Cloud Orchestration**
+**Software Development Engineer III - DevOps and Cloud Orchestration**  
 Nov 2020 – Aug 2021  
 Pleasanton, CA
 
@@ -97,8 +114,8 @@ San Francisco, CA
 May 2018 – February 2019  
 San Francisco, CA
 
-* Transitioned to full time DevOps role split between VeraCode and SourceClear. 
-* Oversaw all IT integrations from SourceClear side. 
+* Transitioned to full time DevOps role split between VeraCode and SourceClear.
+* Oversaw all IT integrations from SourceClear side.
 * Responsible for VeraCode’s CI/CD platform (GitLab based)
 * Helped spearhead introduction of Kubernetes into VeraCode
 * Managed SourceClear’s multiple Kubernetes clusters, including upgrades and migrations.
@@ -120,7 +137,7 @@ San Francisco, CA
 February 2016 – November 2017  
 San Francisco, CA
 
-* Oversaw the build-out of San Francisco Innovation Lab in relation to technology infrastructure. 
+* Oversaw the build-out of San Francisco Innovation Lab in relation to technology infrastructure.
 * Served as liaison between Sutherland’s Digital wing (mainly Sutherland Labs) and the technology teams that make up the larger organization.
 * Managed all on site technology needs
 * Architected solutions for research sessions on site and remote
