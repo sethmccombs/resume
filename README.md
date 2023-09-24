@@ -27,7 +27,7 @@ DevOps, Kubernetes and containers, SRE, build automating, all sorts of cloud inf
 
 ---
 
-### AcuityMD
+### [AcuityMD](acuitymd.com)
 
 **Senior Engineer -  Core Infrastructure**  
 November 2022 - Current
@@ -38,7 +38,7 @@ November 2022 - Current
 * Oversaw build-out of GKE based Kubernetes clusters for production workloads
 * Deployed [ArgoCD](https://argoproj.github.io/cd/) for deployment of all Kubernetes based components
 
-### Crunchyroll
+### [Crunchyroll](crunchyroll.com)
 
 **Tech Lead - Kubernetes and Containers**  
 Sep 2022 - November 2022
@@ -64,7 +64,7 @@ San Francisco, CA
   * Istio rollout
   * Migration of VM based services to containers and into Kubernetes
 
-### Workday
+### [Workday](workday.com)
 
 **Software Development Engineer III - Site Reliability Engineering**  
 Aug 2021 - Apr 2022  
@@ -83,7 +83,7 @@ Pleasanton, CA
 * Designing and developing platform and tools to enhance resiliency and adoption of the Workday solution.
 * Support build-out of new environments and regions, automating solutions across teams
 
-### Sysdig
+### [Sysdig](sysdig.com)
 
 **Infrastructure Engineer**  
 Dec 2019 – Nov 2020  
@@ -95,7 +95,7 @@ San Francisco, CA
 * Assisted all dev teams in company with migrations off freestyle builds to groovy pipeline scripts
 * Managed VM and docker based build agents for running Jenkins jobs.
 
-### Triller
+### Short Form Music/Video Mobile App Company
 
 **Senior Site Reliability Engineer**  
 Feb 2019 – Nov 2019  
@@ -108,7 +108,7 @@ San Francisco, CA
 * Scripted common tasks (python) with the goal of increasing availability and decreasing recovery time
 * Standardized tooling and infra around accepted open source solutions
 
-### Veracode/SourceClear (acquisition)
+### [Veracode](https://www.veracode.com)/SourceClear ([acquisition](https://www.veracode.com/blog/security-news/ca-technologies-acquires-sourceclear-advancing-sca-capabilities-devsecops-world))
 
 **DevOps Engineer**  
 May 2018 – February 2019  
@@ -131,7 +131,7 @@ San Francisco, CA
 * Launched cloud ASA to unify VPN infrastructure.
 * Supported fully cloud based infrastructure on the AWS, built on Docker containers and Kubernetes orchestration.
 
-### Sutherland Global Services/Sutherland Labs
+### [Sutherland Global Services](https://www.sutherlandglobal.com)/[Sutherland Labs](sutherlandlabs.com)
 
 **IT Business Relationship Manager**  
 February 2016 – November 2017  
