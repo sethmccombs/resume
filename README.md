@@ -1,145 +1,111 @@
 # Seth McCombs Resume
 
-email: seth@seth-mccombs.com  
-[linkedin.com/in/sethmccombs](linkedin.com/in/sethmccombs)  
+**Email**: [seth@sethmccombs.com](mailto:seth@sethmccombs.com)  
+**LinkedIn**: [linkedin.com/in/sethmccombs](https://linkedin.com/in/sethmccombs)  
 
-DevOps, Kubernetes and containers, SRE, build automating, all sorts of cloud infra and container stuff
-
-## Skills
-
-### Clouds
-
-* GCP
-* AWS
-
-* Docker & `containerd`
-* Kubernetes
-
-### Programming Languages
-
-* Python
-* GoLang
-
-## Education
-
-* Associates  in  Applied  Science, Entrepreneurial  Business
-  * Monroe  Community  College  Rochester,  NY  -  2011
+Senior++ engineer with a passion for Open Source and Cloud Native. Known for evangelizing my team, documenting everything, and informative pairing/debugging sessions. Aims to block and tackle to enable everyone on the team to succeed, moving forward to develop robust platforms, efficient CI/CD systems, and resilient infrastructure.
 
 ---
 
-### [AcuityMD](acuitymd.com)
+## Skills
 
-**Senior Engineer -  Core Infrastructure**  
-November 2022 - Current
+**Cloud Providers:** GCP, AWS, IBM Cloud  
+**Cloud Native:** Kubernetes, Containers, GitOps, CI/CD  
+**Programming:** GoLang, Python  
+**Strengths:** Documentation, Internal Enablement, Presentations, Automation  
 
-* Managed GCP based Cloud Infrastructure
-* Migrated manually provisioned resources to automated Terraform using [Atlantis](runatlantis.io)
-* Transition from GCP CloudBuild to GitHub Actions
-* Oversaw build-out of GKE based Kubernetes clusters for production workloads
-* Deployed [ArgoCD](https://argoproj.github.io/cd/) for deployment of all Kubernetes based components
+---
 
-### [Crunchyroll](crunchyroll.com)
+## Open Source Involvement
 
-**Tech Lead - Kubernetes and Containers**  
-Sep 2022 - November 2022
-San Francisco, CA
+* Kubernetes Release Team Member: 1.16, 1.18, 1.25  
+* **Speaker**:  
+  * KubeCon + CloudNativeCon Europe 2019  
+  * KubeCon + CloudNativeCon North America 2023  
+  * KubeCon + CloudNativeCon Europe 2024  
+  * GitHub Universe – October 2024  
 
-* 1 of 3 Tech Leads on the DevOps team:
-  * Tasked with being first point of contact should our teammates need assistance
-  * Focused on knowledge sharing and documentation throughout the team and engineering org
-  * SME on Kubernetes and Container based platforms
+---
 
-(continued prior responsibilities as Senior Engineer on DevOps team)
+## Experience
 
-**Senior DevOps Engineer**  
-Apr 2022 - Sep 2022  
-San Francisco, CA
+### **AcuityMD** ([acuitymd.com](https://acuitymd.com))  
+**Senior Software Engineer 2 / Infrastructure Tech Lead**  
+_Feb 2024 – Present_
 
-* Built and maintained cloud infrastructure with Terraform and in-house Cloudformation tooling
-* Managed CI/CD and Build Systems including:
-  * Jenkins
-  * CircleCI
-  * Spinnaker/ArmoryCD
-* Lead engineer on EKS based Kubernetes migration
-  * Istio rollout
-  * Migration of VM based services to containers and into Kubernetes
+* Lead Infrastructure engineering, supporting GKE-based Kubernetes platform
+* Built custom CLI tooling to enable microservice debugging for developers
+* Introduced tools like ArgoCD, Atlantis, and Tilt to improve workflows
 
-### [Workday](workday.com)
+**Senior Software Engineer**  
+_Nov 2022 – Feb 2024_
 
-**Software Development Engineer III - Site Reliability Engineering**  
-Aug 2021 - Apr 2022  
-Pleasanton, CA
+* Company SME for Kubernetes and containerized infrastructure
+* Led migration to GitHub Actions from GCP Cloud Build  
+* Migrated workloads from GCP managed services to GKE
 
-* Working alongside the Public Cloud Team supporting the Kubernetes based platform
-* Managing overall system health, working with application engineering teams to meet agreed on platform SLOs.
-* Coordinating, automating and owning upgrades/patching of both Workday stack and underlying OSS platform (Kubernetes, Istio, Calico)
-* Assist with onboarding services to the platform, coordinating with application teams, architects and product managers.
+---
 
-**Software Development Engineer III - DevOps and Cloud Orchestration**  
-Nov 2020 – Aug 2021  
-Pleasanton, CA
+### **Crunchyroll** ([crunchyroll.com](https://www.crunchyroll.com))  
+**Senior DevOps Engineer / Tech Lead**  
+_Apr 2022 – Nov 2022_
 
-* Member of the Cloud Orchestration team, working on Kubernetes based platform running in the AWS AND GCP public cloud
-* Designing and developing platform and tools to enhance resiliency and adoption of the Workday solution.
-* Support build-out of new environments and regions, automating solutions across teams
+* One of three global DevOps Tech Leads
+* Led Istio rollout and EKS platform redesign  
+* Migrated VMs to container-based systems  
+* CI/CD experience with Jenkins, CircleCI, Spinnaker  
+* Contributed to GCP-based platform architecture
 
-### [Sysdig](sysdig.com)
+---
 
+### **Workday** ([workday.com](https://www.workday.com))  
+**Software Development Engineer III – Public Cloud SRE**  
+_Aug 2021 – Apr 2022_
+
+* Built and operated Kubernetes platform for Public Cloud
+* Rewrote internal documentation for new environment buildouts
+* Designed new support model for cross-team engagements
+
+**Software Development Engineer III – DevOps & Cloud Orchestration**  
+_Nov 2020 – Aug 2021_
+
+* CI/CD automation and Kubernetes platform infrastructure
+* Drove cross-team initiatives modeled on Kubernetes SIGs
+* Led secure image pipeline project for FedRAMP compliance
+
+---
+
+### **Sysdig** ([sysdig.com](https://sysdig.com))  
 **Infrastructure Engineer**  
-Dec 2019 – Nov 2020  
-San Francisco, CA
+_Nov 2019 – Nov 2020_
 
-* Member of Cloud Infra team tasked with maintenance and oversight of all Cloud environments in AWS and IBM Cloud
-* Responsible for automation around Kubernetes clusters and underlying VMs, storage, databases, etc
-* Lead engineer supporting the company's build and deploy environment engineered around Jenkins
-* Assisted all dev teams in company with migrations off freestyle builds to groovy pipeline scripts
-* Managed VM and docker based build agents for running Jenkins jobs.
+* Managed AWS and IBM Cloud environments  
+* Lead Jenkins admin; standardized CI workflows  
+* Improved developer autonomy through self-service tooling and documentation  
 
-### Short Form Music/Video Mobile App Company
+---
 
+### **Triller** (Short Form Video App Company)  
 **Senior Site Reliability Engineer**  
-Feb 2019 – Nov 2019  
-San Francisco, CA  
+_Mar 2019 – Nov 2019_
 
-* SRE tasked with oversight of all cloud infrastructure
-* Converted existing hand provisioned AWS infra to Infrastructure as Code
-* Oversaw transition to full containers and Kubernetes environment from standard VMs
-* Brought systems with little or no monitoring to higher levels of visibility with Cloud Provider metrics and OSS tooling
-* Scripted common tasks (python) with the goal of increasing availability and decreasing recovery time
-* Standardized tooling and infra around accepted open source solutions
+* Full infrastructure ownership, AWS & Kubernetes-based  
+* Transitioned to Infrastructure as Code  
+* Increased visibility and reliability with OSS observability tools  
+* Standardized infra/tools using widely adopted OSS solutions
 
-### [Veracode](https://www.veracode.com)/SourceClear ([acquisition](https://www.veracode.com/blog/security-news/ca-technologies-acquires-sourceclear-advancing-sca-capabilities-devsecops-world))
+---
 
+### **Veracode / SourceClear** ([veracode.com](https://www.veracode.com))  
 **DevOps Engineer**  
-May 2018 – February 2019  
-San Francisco, CA
+_May 2018 – Feb 2019_
 
-* Transitioned to full time DevOps role split between VeraCode and SourceClear.
-* Oversaw all IT integrations from SourceClear side.
-* Responsible for VeraCode’s CI/CD platform (GitLab based)
-* Helped spearhead introduction of Kubernetes into VeraCode
-* Managed SourceClear’s multiple Kubernetes clusters, including upgrades and migrations.
+* Managed GitLab-based CI/CD systems  
+* Led Kubernetes adoption initiatives  
+* Oversaw SourceClear’s Kubernetes clusters and post-acquisition integrations
 
 **IT Ops Engineer**  
-November 2017 – May 2018  
-San Francisco, CA
+_Nov 2017 – May 2018_
 
-* Supported office of startup software security company.
-* Resolved all issues with on site systems.
-* Automated onboarding process and led selection of new MDM solution.
-* Oversaw company-wide LDAP, 2FA and G-Suite instances.
-* Launched cloud ASA to unify VPN infrastructure.
-* Supported fully cloud based infrastructure on the AWS, built on Docker containers and Kubernetes orchestration.
-
-### [Sutherland Global Services](https://www.sutherlandglobal.com)/[Sutherland Labs](sutherlandlabs.com)
-
-**IT Business Relationship Manager**  
-February 2016 – November 2017  
-San Francisco, CA
-
-* Oversaw the build-out of San Francisco Innovation Lab in relation to technology infrastructure.
-* Served as liaison between Sutherland’s Digital wing (mainly Sutherland Labs) and the technology teams that make up the larger organization.
-* Managed all on site technology needs
-* Architected solutions for research sessions on site and remote
-* Covered all technology procurement and administered on site IT asset management.
-* Traveled internationally to support meetings including those including the highest-level executives within the organization (continuing responsibility from previous role)
+* Led MDM implementation and G-Suite/2FA management  
+* Automated onboarding and managed global VPN infrastructure  
